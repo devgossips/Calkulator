@@ -15,7 +15,7 @@ A simple, free modern calculator that can do basic calculation anytime. This web
 ## Get Started 🦄
 * Clone the Repository
 ```
-    https://github.com/JolouTheRookie/Calculator.git 
+    https://github.com/devgossips/Calkulator.git 
 ```
 * Analyze and Study the code
 * Improve/Change the code
