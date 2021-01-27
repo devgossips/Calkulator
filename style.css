@@ -87,3 +87,12 @@ button:hover {
     background-color: #EF2D4F;
     color: white;
 }
+footer {
+
+  height: 30px;
+
+  margin-top: -5px;
+
+  background: linear-gradient(70deg, #0ebeff, #ffdd40, #ae63e4, #47cf73);
+
+}
