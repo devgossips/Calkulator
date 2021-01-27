@@ -94,5 +94,17 @@ footer {
   margin-top: -5px;
 
   background: linear-gradient(70deg, #0ebeff, #ffdd40, #ae63e4, #47cf73);
+margin: 0;
 
+  height: 100%;
+
+  display: flex;
+
+  min-height: 100vh;
+
+  text-align: center;
+
+  flex-direction: column;
+
+  font-family: "Muli", sans-serif;
 }
