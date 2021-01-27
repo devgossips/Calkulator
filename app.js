@@ -97,7 +97,7 @@ function equals(){
     try{
         percent == true ? answer.value = getPercentage(numPercent) : answer.value = eval(formula.value);
     }catch{
-        ans.value = 'Syntax Error';
+        ans.value = 'No solution';
     }
 }
 
